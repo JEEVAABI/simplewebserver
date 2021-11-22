@@ -109,6 +109,25 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+## Client Side Server:
+
+![Output 1](jee1.png)
+
+![Output 2](jee2.png)
+
+![output 3](jee3.png)
+
+![output 4](jee4.png)
+
+## Server side:
+
+![output 5](jee5.png)
+
+![output 6](jee6.png)
+
+![output 7](jee7.png)
 
 ## RESULT:
+
+Since i created simple webserver with help of HTML programming language,about five programming languages as a content. Thus the program ran sucessfully.
 
